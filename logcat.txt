@@ -1,0 +1,15 @@
+01-29 15:34:09.994  15054-15054/com.ndg.intel.fashionconcierge I/dalvikvm-heap? Grow heap (frag case) to 14.016MB for 3931424-byte allocation
+01-29 15:34:10.234  15054-15054/com.ndg.intel.fashionconcierge I/BleshMainActivity? Login state:true
+01-29 15:34:10.249  15054-15054/com.ndg.intel.fashionconcierge I/dalvikvm-heap? Grow heap (frag case) to 14.672MB for 2799472-byte allocation
+01-29 15:34:10.469  15054-15054/com.ndg.intel.fashionconcierge E/? Device driver API match
+    Device driver API version: 23
+    User space API version: 23
+01-29 15:34:10.469  15054-15054/com.ndg.intel.fashionconcierge E/? mali: REVISION=Linux-r3p2-01rel3 BUILD_DATE=Wed Oct  9 21:05:57 KST 2013
+01-29 15:34:10.584  15054-15054/com.ndg.intel.fashionconcierge I/BleshMainActivity? onPrepareOptionsMenu true
+01-29 15:35:46.319  15054-15054/com.ndg.intel.fashionconcierge I/BleshMainActivity? startBlesh called with number:invalid
+01-29 15:35:46.349  15054-15054/com.ndg.intel.fashionconcierge I/BleshMainActivity? onPrepareOptionsMenu false
+01-29 15:36:20.314  15054-15054/com.ndg.intel.fashionconcierge I/LoginFragment? IntegrationID in sp  number:123456789
+01-29 15:36:20.314  15054-15054/com.ndg.intel.fashionconcierge I/BleshMainActivity? startBlesh called with number:123456789
+01-29 15:36:20.319  15054-15054/com.ndg.intel.fashionconcierge I/BleshMainActivity? IntegrationID saving number in sp123456789
+01-29 15:36:20.374  15054-15054/com.ndg.intel.fashionconcierge I/dalvikvm-heap? Grow heap (frag case) to 14.956MB for 2799472-byte allocation
+01-29 15:36:20.564  15054-15054/com.ndg.intel.fashionconcierge I/BleshMainActivity? onPrepareOptionsMenu true

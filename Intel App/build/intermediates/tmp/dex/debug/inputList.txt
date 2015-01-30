@@ -1,0 +1,5 @@
+C:\Users\vgore\AndroidStudioProjects\BleshSDK Intel Demo\Intel App\build\intermediates\classes\debug
+C:\Users\vgore\AndroidStudioProjects\BleshSDK Intel Demo\Intel App\build\intermediates\pre-dexed\debug\classes-e7e255326bba245f5b79e61c6bf8e28153cd248f.jar
+C:\Users\vgore\AndroidStudioProjects\BleshSDK Intel Demo\Intel App\build\intermediates\pre-dexed\debug\bleshsdk_pro-610c77d2cfa1dd834578a304123996d8130e6431.jar
+C:\Users\vgore\AndroidStudioProjects\BleshSDK Intel Demo\Intel App\build\intermediates\pre-dexed\debug\gson-2.2.4-02e37b1e44b15819ff8ddd13c5f466574fed2a1a.jar
+C:\Users\vgore\AndroidStudioProjects\BleshSDK Intel Demo\Intel App\build\intermediates\pre-dexed\debug\support-v4-19.1.0-ece7c985847609ee6a04d859418f1b78edd83127.jar

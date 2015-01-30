@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Blesh/Blesh.iml" filepath="$PROJECT_DIR$/Blesh/Blesh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BleshSDK Intel Demo.iml" filepath="$PROJECT_DIR$/BleshSDK Intel Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intel App/Intel App.iml" filepath="$PROJECT_DIR$/Intel App/Intel App.iml" />
+    </modules>
+  </component>
+</project>
+

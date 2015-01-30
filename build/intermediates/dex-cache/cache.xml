@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\vgore\AndroidStudioProjects\BleshSDK Intel Demo\Intel App\build\intermediates\exploded-aar\BleshSDK Intel Demo\Blesh\unspecified\libs\bleshsdk_pro.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1dbfce4674ccddd3b2997242ee472ce64a37d11f">
+        <dex dex="C:\Users\vgore\AndroidStudioProjects\BleshSDK Intel Demo\Intel App\build\intermediates\pre-dexed\debug\bleshsdk_pro-610c77d2cfa1dd834578a304123996d8130e6431.jar" />
+    </item>
+    <item
+        jar="C:\Users\vgore\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\vgore\AndroidStudioProjects\BleshSDK Intel Demo\Intel App\build\intermediates\pre-dexed\debug\gson-2.2.4-02e37b1e44b15819ff8ddd13c5f466574fed2a1a.jar" />
+    </item>
+    <item
+        jar="C:\Users\vgore\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\vgore\AndroidStudioProjects\BleshSDK Intel Demo\Intel App\build\intermediates\pre-dexed\debug\support-v4-19.1.0-ece7c985847609ee6a04d859418f1b78edd83127.jar" />
+    </item>
+    <item
+        jar="C:\Users\vgore\AndroidStudioProjects\BleshSDK Intel Demo\Intel App\build\intermediates\exploded-aar\BleshSDK Intel Demo\Blesh\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d0284796060f5880647e704d8ed54415bba83f22">
+        <dex dex="C:\Users\vgore\AndroidStudioProjects\BleshSDK Intel Demo\Intel App\build\intermediates\pre-dexed\debug\classes-e7e255326bba245f5b79e61c6bf8e28153cd248f.jar" />
+    </item>
+
+</items>
